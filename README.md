@@ -3,11 +3,11 @@
 # Trabalho Prático - Semana-01
 
 ## Informações Gerais
-Nome: 
-Matricula: 
+Nome: Pedro Henrique Alvares Amaral
+Matricula: 894194
 
 ## Tela de inspeção com navegador
-
+![alt text](Captura_tela_navegador.png)
 
 ## Tela de projeto no Replit
-
+![alt text](Captura_tela_02.png)
